@@ -27,10 +27,10 @@ N.B.: Click on the fuse indicator to repair it, if it got fused.
 
 
 ## Circuit Diagram : 
-<img width="1268" height="681" alt="Screenshot 2026-05-16 113536" src="https://github.com/user-attachments/assets/377fb4bc-597c-4ac4-9154-c39befff0253" />
+<img width="1258" height="752" alt="WhatsApp Image 2026-05-16 at 11 36 09 AM" src="https://github.com/user-attachments/assets/930e6e5a-5935-498c-8e1f-a444bacc3e6e" />
 
 ## Output Tabulation:
-<img width="578" height="266" alt="Screenshot 2026-05-16 113442" src="https://github.com/user-attachments/assets/df61abf6-2417-415f-bdf9-ccb3a0856f22" />
+<img width="617" height="317" alt="WhatsApp Image 2026-05-16 at 11 36 22 AM" src="https://github.com/user-attachments/assets/4923499a-9b93-430b-bb19-ff13a1f68f3a" />
 
 
 ## Result:  
